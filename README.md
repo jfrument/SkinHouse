@@ -25,5 +25,6 @@ Short wall cabinet
 Oven hood
 Stove
 
-I also amde the skin, obama, and skybox materials myself
+I also made the skin, obama, and skybox materials myself
 
+Here is a link to the video, via twitter: https://twitter.com/joe_frumenti/status/1580078373933502465
